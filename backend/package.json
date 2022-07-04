@@ -1,0 +1,32 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend contain signin and login authentication also store other user setting in the future",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MalikBilalKhaliq/real-time-crypto-gridbot-react.git"
+  },
+  "keywords": [
+    "crypto",
+    "trading",
+    "grid",
+    "bot",
+    "signin",
+    "signup",
+    "backend"
+  ],
+  "author": "Bilal Khaliq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MalikBilalKhaliq/real-time-crypto-gridbot-react/issues"
+  },
+  "homepage": "https://github.com/MalikBilalKhaliq/real-time-crypto-gridbot-react#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.2"
+  }
+}
